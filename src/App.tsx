@@ -37,7 +37,7 @@ function App() {
   return (
     <Container>
       <Content>
-        <img className="rotated" src="./redragon-mitra.png" />
+        
         <h1 className="text-4xl font-bold ">Sorteio Redragon Mitra</h1>
         <p className="mb-4">
           sorteio do canal da twitch{' '}
@@ -68,6 +68,7 @@ function App() {
           />
         </div>
       </Content>
+      <img className="rotated" src="./redragon-mitra.png" />
       <SocialMedia />
     </Container>
   )
