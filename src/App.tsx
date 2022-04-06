@@ -5,7 +5,7 @@ import SocialMedia from './components/SocialMedia'
 const rules = [
   {
     points: 1,
-    name: 'A cada minuto',
+    name: 'A cada 10 minutos',
   },
   {
     points: 1,
